@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <symbol id="bmc" viewBox="100 100 250 250">
+        <g fill="none">
+            <path stroke="#f678a7" stroke-width="12" stroke-linejoin="round" stroke-linecap="round" d="M38.499 290.787l100.75-96.656 195.767 91.74 98.294-120.41"/>
+        </g>
+    </symbol>
+    <symbol id="neu" viewBox="100 100 250 250">
+        <g fill="none">
+            <path stroke="#0088FF" stroke-width="12" stroke-linejoin="round" stroke-linecap="round" d="M38.499 290.787l100.75-96.656 195.767 91.74 98.294-120.41"/>
+        </g>
+    </symbol>
+</svg>

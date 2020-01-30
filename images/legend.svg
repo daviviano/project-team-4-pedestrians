@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="533.42" height="256.61" viewBox="0 0 533.42 256.61">
+    <defs>
+        <style>.a,.e,.f{opacity:0.82;}.a{font-size:10px;font-family:Arial-BoldMT,
+            Arial;font-weight:700;}.b{fill:#d9d9d9;}.c{fill:#a6a6a6;}.d{fill:#595959;}.e{font-size:9.5px;}.e,.f{font-family:ArialMT,
+            Arial;}.f{font-size:9.63px;}.g{letter-spacing:2.34em;}.h{letter-spacing:3.04em;}.i{font-family:Arial-ItalicMT,
+            Arial;font-style:italic;}.j{letter-spacing:1.3em;}.k{letter-spacing:0.67em;}.l{letter-spacing:2.78em;}.m{letter-spacing:-0.07em;}.n{letter-spacing:2.5em;}.o,.p,.q{fill:none;stroke-miterlimit:10;}.o{stroke:#f678a7;}.p{stroke:#08f;}.q{stroke:#9d9d9d;}
+        </style>
+    </defs>
+    <title>legend</title>
+    <text class="a" transform="translate(194.22 28.97)">Congestion</text>
+    <rect class="b" x="194.22" y="45.24" width="28.9" height="12.35"/>
+    <rect class="c" x="194.22" y="65.32" width="28.9" height="12.35"/>
+    <rect class="d" x="194.22" y="87.4" width="28.9" height="11.98"/>
+    <text class="e" transform="translate(240.24 54.58)">Low: (0, 50) people</text>
+    <text class="e" transform="translate(240.24 75.04)">Medium: [50, 150]</text>
+    <text class="e" transform="translate(240.24 96.12)">High: &gt;150</text>
+    <text class="a" transform="translate(18.3 28.97)">Pathways</text>
+    <text class="e" transform="translate(58.65 54.67)">Pathways towards
+        <tspan x="0" y="9.63">Northeastern University</tspan>
+    </text>
+    <text class="e" transform="translate(58.65 89.4)">Pathways towards
+        <tspan x="0" y="9.63">Boston Medical Center</tspan>
+    </text>
+    <text class="e" transform="translate(18.3 54.67)">N[1-4]</text>
+    <text class="f" transform="translate(18.3 89.4)">B[1-4]</text>
+    <text class="a" transform="translate(18.3 162.3)">Survey Questions</text>
+    <text class="e" transform="translate(18.3 185.8)">Pref. Path (rush)
+        <tspan class="g" x="69.69" y="0"></tspan>
+        <tspan class="h" x="94.52" y="0"></tspan>
+        <tspan x="126.03" y="0">What path do you prefer to take when walking</tspan>
+        <tspan class="i" x="321.42" y="0">in a rush</tspan>
+        <tspan x="357.85" y="0">?</tspan>
+        <tspan class="j" x="363.14" y="0"></tspan>
+    </text>
+    <text class="e" transform="translate(18.3 201.81)">Pref. Path (not rush)
+        <tspan class="k" x="85.54" y="0"></tspan>
+        <tspan class="h" x="94.52" y="0"></tspan>
+        <tspan x="126.03" y="0">What path do you prefer take when walking</tspan>
+        <tspan class="i" x="310.85" y="0">not in a rush</tspan>
+        <tspan x="363.14" y="0">?</tspan>
+    </text>
+    <text class="e" transform="translate(18.3 218.02)">Most Pref. Path
+        <tspan class="l" x="65.47" y="0"></tspan>
+        <tspan class="h" x="94.52" y="0"></tspan>
+        <tspan x="126.03" y="0">Generally, which path is most preferable?</tspan>
+    </text>
+    <text class="e" transform="translate(18.3 234.03)">Least Pref. Path
+        <tspan class="n" x="68.12" y="0"></tspan>
+        <tspan class="h" x="94.52" y="0"></tspan>
+        <tspan x="126.03" y="0">Generally, which path is least preferable?</tspan>
+    </text>
+    <text class="a" transform="translate(352.63 28.97)">Side of Residency</text>
+    <text class="e" transform="translate(400.06 54.55)">Park side heading towards
+        <tspan x="0" y="9.63">Northeastern University</tspan>
+    </text>
+    <text class="e" transform="translate(400.06 89.31)">Park side heading towards
+        <tspan x="0" y="9.63">Boston Medical Center</tspan>
+    </text>
+    <polyline class="o" points="352.63 94.19 360.89 86.19 375.91 94.19 383.42 84.43"/>
+    <polyline class="p" points="352.63 59.43 360.89 51.42 375.91 59.43 383.42 49.67"/>
+    <path class="q"
+          d="M10.79.5H522.15a10.77,10.77,0,0,1,10.77,10.77v100.8a10.29,10.29,0,0,1-10.29,10.29H10.79A10.29,10.29,0,0,1,.5,112.07V10.79A10.29,10.29,0,0,1,10.79.5Z"/>
+    <path class="q"
+          d="M10.79,134.24H522.15A10.77,10.77,0,0,1,532.92,145v100.8a10.29,10.29,0,0,1-10.29,10.29H10.79A10.29,10.29,0,0,1,.5,245.82V144.54a10.29,10.29,0,0,1,10.29-10.29Z"/>
+</svg>
